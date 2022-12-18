@@ -1,0 +1,2 @@
+https://fastapilemishko.herokuapp.com/docs#/default/credit_predict_get
+
